@@ -99,4 +99,5 @@ int main()
         cout<<T.position[i]<<" ";
     }
     cout<<endl;
+    cout<<endl;
 }
